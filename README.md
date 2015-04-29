@@ -14,7 +14,7 @@ Dans la section [mail function]
 Trouver la ligne "SMTP=...."
 Mettre l'adresse du serveur smtp de votre FAI et la modifier comme ceci : SMTP = smtp.sfr.fr (exemple pour sfr).
 Si souci à l'envoi du mail : Remplacer le mail dans la ligne sendmail_from = you@yourdomain par le mail de l'expéditeur.
-Recharger la conf du serveur
+Recharger la conf du serveur.
 
 ## cURL :
 
